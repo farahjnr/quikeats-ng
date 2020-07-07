@@ -1,0 +1,127 @@
+body{
+  /* background-color: #e5e5e5; */
+}
+
+/* header-navbar */
+.navbar-nav{
+  margin-left: auto;
+}
+
+/* intro-section */
+#intro{
+  background-color: #f8b24f;
+}
+.big-font{
+  font-size:5rem;
+  font-weight:bold;
+}
+.col-special{
+padding:20% 0 0 0;
+}
+
+.intro-picture{
+  width:700px;
+  padding: 12px 50px 20px 20px;
+  transform: rotate(25deg);
+  position: relative;
+  right: 50px;
+}
+
+/* combos */
+
+#combos{
+  padding:100px 100px;
+}
+.combos-text{
+  font-size: 2.2rem;
+  font-weight:700;
+  width:450px;
+  padding: 50px 20px 0 0;
+}
+
+.hamburger{
+  width:650px;
+}
+
+hr{
+  border:solid;
+}
+
+/* description */
+
+
+}
+
+/* ordersection */
+
+#ordersection{
+  background-color: #ea9a96;
+  text-align: center;
+}
+.menu-pic{
+  width:200px;
+  padding-bottom:20px;
+}
+#ordersection .container{
+  text-align: center;
+}
+#ordersection .row{
+  padding: 5% 0;
+}
+#ordersection .col-3{
+  padding: 20px 0;
+}
+#ordersection hr{
+  border-color: #99d8d0;
+  width: 50%;
+  text-align: center;
+  margin:1rem;
+  display:inline-block;
+}
+/* greendiv */
+#green-carousel{
+  background-color: #99d8d0;
+  text-align:center;
+  height:200px;
+  padding:20px 0;
+  margin-bottom: 100px;
+}
+.forty{
+  font-size: 150px;
+  font-weight:bold;
+}
+.thirty{
+  font-size:70px;
+  font-weight:bold;
+}
+.coke-bottle{
+  width:100px;
+}
+.fas{
+  color:;
+}
+.col{
+  text-align: center;
+}
+.container-combo{
+  text-align:center;
+}
+#membmedia{
+  background color:#e5e5e5;
+  text-align:center;
+  padding:100px 0;
+}
+.membpics{
+  width:500px;
+}
+#differently .col{
+  background: red;
+  border: 1px solid;
+}
+
+#Plansection{
+  text-align: center;
+  background-color:black;
+  color:white;
+  padding: 100px 0;
+}
